@@ -1,0 +1,88 @@
+.container>img{
+    margin-left: 50px !important;
+    margin-top: 20px !important;
+    height: 30px !important;
+}
+.img>img{
+    margin-top: 20px !important;
+    margin-left: 10px !important;
+}
+.navbar{
+    display: flex !important;
+}
+.side>ul>li{
+    list-style: none;
+    color: black !important;
+    font-weight:bold !important;
+    font-size: 15px !important;
+}
+.side>ul{
+    display: flex !important;
+    margin-left: 250px !important;
+    gap: 20px !important;
+    margin-top: 30px !important;
+}
+.btn>button{
+    border-color: black !important;
+    border-radius: 20px !important;
+    margin-top: 30px !important;
+    margin-left: 20px;
+    height: 50px !important;
+    width: 150px !important;
+    font-size: 15px !important;
+}
+.page>img{
+    margin-top: 200px !important;
+    margin-left: -1100px !important;
+    width: 1200px !important;
+    height: 500px !important;
+}
+.main-company-logo{
+    display: flex !important;
+}
+.logo1>img{
+    margin-top: 720px !important;
+    margin-left: -1100px !important;
+}
+.logo2>img{
+    margin-left: -900px !important;
+    margin-top: 715px !important;
+    height: 50px !important;
+}
+.logo3>img{
+    margin-left: -700px !important;
+    margin-top: 715px !important;
+    height: 50px !important;
+}
+.logo4>img{
+    margin-left: -500px !important;
+    margin-top: 715px !important;
+    height: 50px !important;
+}
+.logo5>img{
+    margin-left: -300px !important;
+    margin-top: 715px !important;
+    height: 50px !important;
+    width: 150px !important;
+    height: 50px !important;
+}
+.logo6>img{
+    margin-left: -50px !important;
+    margin-top: 715px !important;
+
+}
+.button>img{
+    margin-top: 850px !important;
+    margin-left: -1050px !important;
+
+}
+.button>p{
+    margin-left: -830px !important;
+    margin-top: -50px !important;
+}
+
+
+
+
+
+
